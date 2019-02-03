@@ -1,6 +1,6 @@
 # Tool Name :- IP-Tracer
-# Author :- Rajkumar Dusad
-# Date :- 5/8/2018
+# Author :- ØSC4R O’4S1S
+# Date :- 04/Feb/2019
 # Powered By :- Aex Software's
 
 if [ -e  /usr/lib/sudo ];then
