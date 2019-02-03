@@ -14,9 +14,9 @@ IP-Tracer is use to track ip address. IP-Tracer is developed for linux and andro
 
 * `apt install git -y`
 
-* `git clone https://github.com/Rajkumrdusad/IP-Tracer.git`
+* `git clone https://github.com/oscar-oasis/IPTRACER.git`
 
-* `cd IP-Tracer`
+* `cd IPTRACER`
 
 * `chmod +x install`
 
